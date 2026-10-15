@@ -1,0 +1,12 @@
+{
+  "seed": 17,
+  "device": "cpu",
+  "epochs": 150,
+  "patience": 15,
+  "batch_size": 8,
+  "learning_rate": 0.0001,
+  "weight_decay": 0.0001,
+  "channels": 1,
+  "width": 32
+}
+
